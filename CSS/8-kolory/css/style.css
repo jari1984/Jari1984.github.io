@@ -1,0 +1,22 @@
+body {
+    background-color: yellowgreen;
+}
+
+div {
+    width: 200px;
+    height: 50px;
+    margin-bottom: 15px;
+}
+
+#predefined-colors {
+    background-color: orange;
+}
+
+#hexadecimal-colors {
+    background-color: rgb(12, 255, 70);
+}
+
+#rgb
+#rgbafunction {
+    background-color: rgb(5, 178 ,200, 0.7);
+}

@@ -1,0 +1,28 @@
+#cointaner {
+    font-size: 20px;    
+}
+
+#container .div {
+    height: 50px;
+    margin-bottom: 30px;
+}
+
+#pixels {
+    width: 400px;
+    background-color: hotpink;
+}
+
+#em {
+    width: 20em;
+    background-color: olivedrab;  
+}
+
+#percent {
+    width: 50%;
+    background-color: orange;
+}
+
+#vh {
+    width: 60vh;
+    background-color: red;
+}
