@@ -19,14 +19,14 @@ form label[for='agreement'] {
 
 form select, form input[type=text], form input[type=tel], form input[type=city], form input[type=email], form textarea[type=text] {
     width: 350px;
-    background-color: darkgray;
+    background-color: whitesmoke;
     color: #fff;
     border: turquoise 1px;
     height: 25px;
 }
 
 form select:focus, form input:focus, form textarea:focus {
-    background-color: darkgray;
+    background-color: whitesmoke;
     border: turquoise 1px solid;
     outline: none;
 }
